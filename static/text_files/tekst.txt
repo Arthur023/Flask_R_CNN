@@ -1,0 +1,4 @@
+RB_H_V_Ipomaea eriocarpa Faulkner 3424_blad1-vlak1.jpg,huidmond,528,672,0,128,99.8534083366394
+RB_H_V_Ipomaea eriocarpa Faulkner 3424_blad1-vlak1.jpg,huidmond,0,128,432,576,99.80648159980774
+RB_H_V_Ipomaea eriocarpa Faulkner 3424_blad1-vlak1.jpg,huidmond,544,704,336,480,99.52600598335266
+RB_H_V_Ipomaea eriocarpa Faulkner 3424_blad1-vlak1.jpg,huidmond,160,352,208,320,98.63857626914978
